@@ -1,0 +1,2 @@
+# Hover-Effect-in-Prestashop-1.6
+How to Create Hover Effect in Prestashop 1.6 Default Theme Today I’m going to explain how to animate your website by CSS3 hover-effects, that are activated upon mouse hover. We will consider a case based on Theme configurator (themeconfigurator) default module in Prestashop 1.6 theme. And this article is dedicated to such CSS-properties as transform and transition, that you can easily apply in your webstore.
